@@ -11,7 +11,10 @@ public class ArraySorting {
 		int a[] = {10, 3, 1 ,2 ,5, 6, 3, 9};
 	      int [] arr = new int [] {5, 2, 8, 7, 1};     
 	        int temp = 0;    
-	            
+
+Syso(:HIIIIIIIIIIIIIIIII")	           
+
+
 	        //Displaying elements of original array    
 	        System.out.println("Elements of original array: ");    
 	        for (int i = 0; i < arr.length; i++) {     
